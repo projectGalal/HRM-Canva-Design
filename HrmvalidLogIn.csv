@@ -1,0 +1,13 @@
+﻿Precondition,Action,Expected Result,Actual Result,
+"1-User is already on the log in page.
+2-User already has an account.",Verify that a user is successfully logged in and redirected to the home page after entering valid credential.,,,
+,1-enter valid credential,,,
+,2-Click on sign in button,,,
+,Validate that remember me check box is working properly.,,,
+,1-Click on remember me check box,,,
+,Validate that when a user clicks on reset password is redirected to the reset password page.,,,
+,1-Click on reset password,,,
+,Validate that the user gets the OTP required to reset password.,,,
+,1-Click on reset password,,,
+,"Verify that when a user clicks on ""Join KRIS today"" is redirected to sign up pag.",,,
+,1-Click on Join KRIS today,,,
